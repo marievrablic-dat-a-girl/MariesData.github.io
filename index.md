@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Food Service Marketing Analysis](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Article photo.png?raw=true"/>
 This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign.
 
 ---
