@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Food Service Marketing Analysis](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
