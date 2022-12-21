@@ -29,13 +29,13 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### Tableau Dashboard Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Massachusetts Education Data](https://public.tableau.com/app/profile/marievrablic/viz/MassachusettesEducationOverview/Dashboard1)
+- [Audiobook Sales/Reviews](https://public.tableau.com/app/profile/marievrablic/viz/AudiobookSalesReviews_16687316132750/Dashboard1)
+- [New York City Crime Data](https://public.tableau.com/app/profile/marievrablic/viz/NYCCrimeData2018/Dashboard2)
+- [Bank Marketing Analysis](https://public.tableau.com/app/profile/marievrablic/viz/Capstone2BankMarketingDataAnalysis/Dashboard4)
+- [AEMR Case Study](https://public.tableau.com/app/profile/marievrablic/viz/AEMRCaseStudy_16316311938710/UnreliableProviders_1)
 
 ---
 
