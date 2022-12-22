@@ -16,21 +16,6 @@ Southern Water Corp. is an Israeli water desalination company that sells freshwa
 Costs between the various plants vary due to the type of water they produce. While Residential only requires soft water, Public, and Private consumers need a mix of hard and soft water. By looking at the revenue, operational costs, and EBIT, we can understand the sustainability of the business.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
-
----
-
 ### Tableau Dashboard Projects
 
 - [Massachusetts Education Data](https://public.tableau.com/app/profile/marievrablic/viz/MassachusettesEducationOverview/Dashboard1)
