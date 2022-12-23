@@ -9,11 +9,21 @@
 This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign. I used Excel to do my exploration and used pivot table and charts to visualize the data.
 
 ---
-#### [AEMR Case Study](/files/Presentation Southern Water Corp [VRABLIC].pdf)
+#### [AEMR Case Study](/files/AEMR Case Study.pdf)
 <img src="images/AEMRTitlePage.png?raw=true"/>
-Southern Water Corp. is an Israeli water desalination company that sells freshwater for three customer segments: Residential, Public, and Private. In this case study, the demand for agricultural and residential water use is rising. While the increased revenue from this demand is great, Southern Water Corp. wants to make sure they do not have an unsustainable rise in costs.
+The American Energy Market Regulator is in place to ensure America's energy network is reliable and has limited disruptions, known as outages. There are four types of outages.
+  1. Consequential
+  2. Forced
+  3. Opportunistic
+  4. Planned
 
-Costs between the various plants vary due to the type of water they produce. While Residential only requires soft water, Public and Private consumers need a mix of hard and soft water. By looking at the revenue, operational costs, and EBIT, we can understand the sustainability of the business.
+Forced outages are the types of disruptions that the AEMR fines companies for. Forced outages puts a strain on the network and creates an unreliable energy network.
+
+For this case study, I used SQL to produce a series of queries that answer two major issues for management:
+  1. How is the stability of the market and who are the providers with the most Forced outages?
+  2. Which providers produces the highest energy losses and how does this contribute the the reliability of the network?
+
+Finally, I imported a CSV file into Tableau, where I created visualizations to use for my presenation. You can find the SQL queries at the end of the presentation.
 
 ---
 #### [Southern Water Corp Case Study](/files/Presentation Southern Water Corp [VRABLIC].pdf)
