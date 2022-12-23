@@ -10,7 +10,7 @@ This is an analysis of a food service company, similar to DoorDash. In this anal
 
 ---
 #### [AEMR Case Study](/files/Presentation Southern Water Corp [VRABLIC].pdf)
-<img src="images/SouthernWaterTitlePage2.png?raw=true"/>
+<img src="images/AEMRTitlePage.png?raw=true"/>
 Southern Water Corp. is an Israeli water desalination company that sells freshwater for three customer segments: Residential, Public, and Private. In this case study, the demand for agricultural and residential water use is rising. While the increased revenue from this demand is great, Southern Water Corp. wants to make sure they do not have an unsustainable rise in costs.
 
 Costs between the various plants vary due to the type of water they produce. While Residential only requires soft water, Public and Private consumers need a mix of hard and soft water. By looking at the revenue, operational costs, and EBIT, we can understand the sustainability of the business.
