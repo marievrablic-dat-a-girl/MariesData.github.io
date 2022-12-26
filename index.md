@@ -6,7 +6,7 @@
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
 <img src="images/ArticleTitlePage.png?raw=true"/>
-Using and Excel file, I uploaded data into Tableau Public to create a dashboard on the state of the Massachusetts Education system. In creating the dashboard, my analysis led to further investigation of whether class size affects college admissions, how economically disadvantaged districts and schools affect graduation rates, and how math scores contribute to poor school performance. I invite you to take a look at the analysis and follow my Tableau Public profile for my dashboard creation.
+Using an Excel file, I uploaded data into Tableau Public to create a dashboard on the state of the Massachusetts Education system. In creating the dashboard, my analysis led to further investigation of whether class size affects college admissions, how economically disadvantaged districts and schools affect graduation rates, and how math scores contribute to poor school performance. I invite you to take a look at the analysis and follow my Tableau Public profile for my dashboard creation.
 
 ---
 #### [Food Service Marketing Analysis](https://www.linkedin.com/pulse/dine-dash-marie-vrablic/)
