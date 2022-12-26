@@ -4,6 +4,11 @@
 
 ### Learn About My Projects
 
+#### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
+<img src="images/?raw=true"/>
+This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign. I used Excel to do my exploration and used pivot table and charts to visualize the data.
+
+---
 #### [Food Service Marketing Analysis](https://www.linkedin.com/pulse/dine-dash-marie-vrablic/)
 <img src="images/Article photo.png?raw=true"/>
 This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign. I used Excel to do my exploration and used pivot table and charts to visualize the data.
