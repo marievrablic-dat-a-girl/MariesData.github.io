@@ -1,6 +1,7 @@
 # Welcome to My Portfolio
-<img src="images/Marie Vrablic Data Portfolio.png?raw=true"/>
+
 ---
+<img src="images/Marie Vrablic Data Portfolio.png?raw=true"/>
 
 ### Learn About My Projects
 
