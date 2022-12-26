@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
-<img src="images/?raw=true"/>
-This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign. I used Excel to do my exploration and used pivot table and charts to visualize the data.
+<img src="images/ArticleTitlePage.png?raw=true"/>
+Using and Excel file, I uploaded data into Tableau Public to create a dashboard on the state of the Massachusetts Education system. In creating the dashboard, my analysis led to further investigation of whether class size affects college admissions, how economically disadvantaged districts and schools affect graduation rates, and how math scores contribute to poor school performance. I invite you to take a look at the analysis and follow my Tableau Public profile for my dashboard creation.
 
 ---
 #### [Food Service Marketing Analysis](https://www.linkedin.com/pulse/dine-dash-marie-vrablic/)
