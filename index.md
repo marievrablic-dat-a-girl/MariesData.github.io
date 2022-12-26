@@ -1,9 +1,11 @@
 # Welcome to My Portfolio
 
 ---
-<img src="images/Marie Vrablic Data Portfolio.png?raw=true"/>
+
 
 ### Learn About My Projects
+
+<img src="images/Marie Vrablic Data Portfolio.png?raw=true"/>
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
 <img src="images/ArticleTitlePage.png?raw=true"/>
