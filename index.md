@@ -1,5 +1,4 @@
-# Welcome to My Portfolio
-<img src="images/Marie Vrablic Data Portfolio2.png?raw=true"/>
+<img src="images/Welcome.png?raw=true"/>
 ---
 
 
