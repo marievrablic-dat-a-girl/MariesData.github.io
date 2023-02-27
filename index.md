@@ -4,6 +4,10 @@
 
 ### Learn About My Projects
 
+#### [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-marie-vrablic/)
+<img src="images/ArticleTitlePage.png?raw=true"/>
+This analysis was completed using MYSQL to perform ad-hoc queries for various healthcare workers. This article goes through how I approached each query and the recommendations given to stakeholders based upon the results. I have also shown how I worked around the database not containing a primary key when trying to find results after an inner join. 
+
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
 <img src="images/ArticleTitlePage.png?raw=true"/>
 Using an Excel file, I uploaded data into Tableau Public to create a dashboard on the state of the Massachusetts Education system. In creating the dashboard, my analysis led to further investigation of whether class size affects college admissions, how economically disadvantaged districts and schools affect graduation rates, and how math scores contribute to poor school performance. I invite you to take a look at the analysis and follow my Tableau Public profile for my dashboard creation.
