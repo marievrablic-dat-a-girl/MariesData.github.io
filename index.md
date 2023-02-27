@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-marie-vrablic/)
-<img src="images/ArticleTitlePage.png?raw=true"/>
+<img src="images/HealthcareTitle.png?raw=true"/>
 This analysis was completed using MYSQL to perform ad-hoc queries for various healthcare workers. This article goes through how I approached each query and the recommendations given to stakeholders based upon the results. I have also shown how I worked around the database not containing a primary key when trying to find results after an inner join. 
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
