@@ -6,11 +6,13 @@
 
 #### [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-marie-vrablic/)
 | MySQL | 
+
 <img src="images/HealthcareTitle.png?raw=true"/>
 This analysis was completed using MYSQL to perform ad-hoc queries for various healthcare workers. This article goes through how I approached each query and the recommendations given to stakeholders based upon the results. I have also shown how I worked around the database not containing a primary key when trying to find results after an inner join. 
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/does-class-size-affect-graduation-rates-marie-vrablic/)
 | Excel | Tableau |
+
 <img src="images/ArticleTitlePage.png?raw=true"/>
 Using an Excel file, I uploaded data into Tableau Public to create a dashboard on the state of the Massachusetts Education system. In creating the dashboard, my analysis led to further investigation of whether class size affects college admissions, how economically disadvantaged districts and schools affect graduation rates, and how math scores contribute to poor school performance. I invite you to take a look at the analysis and follow my Tableau Public profile for my dashboard creation.
 
@@ -23,6 +25,7 @@ This is an analysis of a food service company, similar to DoorDash. In this anal
 ---
 #### [AEMR Case Study](/files/AEMR Case Study.pdf)
 | ProsgreSQL | Microsoft PowerPoint | Tableau |
+
 <img src="images/AEMRTitlePage.png?raw=true"/>
 The American Energy Market Regulator is in place to ensure America's energy network is reliable and has limited disruptions, known as outages. There are four types of outages.
   1. Consequential
@@ -41,6 +44,7 @@ Finally, I imported a CSV file into Tableau, where I created visualizations to u
 ---
 #### [Southern Water Corp Case Study](/files/Presentation Southern Water Corp [VRABLIC].pdf)
 | Excel | Pivot Tables | Microsoft PowerPoint |
+
 <img src="images/SouthernWaterTitlePage2.png?raw=true"/>
 Southern Water Corp. is an Israeli water desalination company that sells freshwater for three customer segments: Residential, Public, and Private. In this case study, the demand for agricultural and residential water use is rising. While the increased revenue from this demand is great, Southern Water Corp. wants to make sure they do not have an unsustainable rise in costs.
 
