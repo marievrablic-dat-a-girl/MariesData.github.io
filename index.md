@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Healthcare Analysis](https://www.linkedin.com/pulse/healthcare-analysis-marie-vrablic/)
-| MySQL | 
+| MySQL | JOINS | 
 
 <img src="images/HealthcareTitle.png?raw=true"/>
 This analysis was completed using MYSQL to perform ad-hoc queries for various healthcare workers. This article goes through how I approached each query and the recommendations given to stakeholders based upon the results. I have also shown how I worked around the database not containing a primary key when trying to find results after an inner join. 
@@ -19,6 +19,7 @@ Using an Excel file, I uploaded data into Tableau Public to create a dashboard o
 ---
 #### [Food Service Marketing Analysis](https://www.linkedin.com/pulse/dine-dash-marie-vrablic/)
 | Excel | Pivot Tables | VLookup |
+
 <img src="images/Article photo.png?raw=true"/>
 This is an analysis of a food service company, similar to DoorDash. In this analysis, I look at different campaigns to find the most effective campaign and what demographics the clients have during that campaign. I used Excel to do my exploration and used pivot tables and charts to visualize the data.
 
